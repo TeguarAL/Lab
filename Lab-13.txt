@@ -1,0 +1,31 @@
+1. Import Numpy and display the version. 
+2. Create a 1D array and a boolean array. 
+3. Extract all odd numbers from the 1D array and replace them with -1 without affecting the original array. 
+4. Reshape the array into a 2D array. 
+5. Stack two array vertically and horizontally. 
+6. Generate an array with a custom sequence. 
+7. Get common items between the 3 arrays. 
+8. Identify the position of similar elements between any two arrays. 
+9. Remove items from one tray that exist in the other two. 
+10. Extract all numbers between 5 and 50 from the array. 
+11. Convert scalar function max to work on two arrays.
+12. Swap two rows and two columns in a 2D array. 
+13. Reverse rows and columns in the 2D array. 
+14. Create a new array containing random floats between 8 and 25 and print only 3 decimal places. 
+15. Get the second largest value of an array when grouped by another array
+16. Suppress the scientific notation in the float array. 
+17. Print limited number of items from the array. 
+18. Print all items in the array without truncating. 
+19. Import a dataset confining both text and numbers and keep text intact. 
+20. Extract a column from 1D tuple.
+21. Convert 1D tuple to 2D array.
+22. Compute the mean, median and the standard deviation of the array.
+23. Normalise the array so that the range of values is between 0 and 1.
+24. Compute the softmax score and percentile scores.
+25. Find and drop missing values and null values and insert random values in an array.
+26. Count unique values in the array.
+27. Convert numeric to text array.
+28. Find the correlation between two columns of an array.
+29. Create a new column from the existing one of a Numpy array.
+30. Get the positions of top n values from the array.
+31. Sort a 2D array by the column.
